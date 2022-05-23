@@ -41,6 +41,11 @@ body{
     font-size: 16px;
 }
 
+.header button:hover{
+    background-color: #19c1d7;
+    color:#03181b;
+}
+
 button{
     border: none;
     border-radius: 50px;
@@ -51,6 +56,12 @@ button{
     margin-right: 1%;
     height: 50px;
     width: 190px;
+}
+
+button:hover{
+    color: #03181b;
+    background-color: #15aabf;
+    border: thin solid #03181b;
 }
 
 
